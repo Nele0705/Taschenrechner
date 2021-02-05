@@ -1,0 +1,10 @@
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\bin\Debug\TaschenrechnerAusKopf.exe.config
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\bin\Debug\TaschenrechnerAusKopf.exe
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\bin\Debug\TaschenrechnerAusKopf.pdb
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\obj\Debug\TaschenrechnerAusKopf.csprojAssemblyReference.cache
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\obj\Debug\TaschenrechnerAusKopf.Form1.resources
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\obj\Debug\TaschenrechnerAusKopf.Properties.Resources.resources
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\obj\Debug\TaschenrechnerAusKopf.csproj.GenerateResource.cache
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\obj\Debug\TaschenrechnerAusKopf.csproj.CoreCompileInputs.cache
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\obj\Debug\TaschenrechnerAusKopf.exe
+C:\Users\Nele\source\repos\TaschenrechnerAusKopf\TaschenrechnerAusKopf\obj\Debug\TaschenrechnerAusKopf.pdb
